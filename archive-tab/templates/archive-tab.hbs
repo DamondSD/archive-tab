@@ -1,0 +1,29 @@
+<section class="archive-tab flexcol" data-application-part="main">
+
+  <header class="archive-tab-header">
+    <img
+      class="archive-tab-logo"
+      src="modules/archive-tab/assets/LogoSC.webp"
+      alt="Shadowdrake Creations Logo"
+    />
+
+    <h2 class="archive-tab-title">Archive Tools</h2>
+    <p class="archive-tab-subtitle">
+      Central launcher for all Archive modules.
+    </p>
+  </header>
+
+  <div class="archive-tab-buttons flexcol">
+
+    <!-- This is where JS will insert buttons -->
+    <div class="launcher-list"></div>
+
+    {{#unless launchers.length}}
+      <div class="archive-empty">
+        <p class="archive-empty-line">No Archive tools detected.</p>
+        <p class="archive-empty-sub">Install an Archive module to get started.</p>
+      </div>
+    {{/unless}}
+  </div>
+
+</section>

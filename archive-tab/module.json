@@ -1,0 +1,32 @@
+{
+    "id": "archive-tab",
+    "title": "Archive Tab",
+    "description": "Adds a sidebar tab for all Archive Modules",
+    "version": "0.1.0",
+    "protected": false,
+    "authors": [
+        {
+            "name": "Shadowdrake Creations"
+        }
+    ],
+    "scripts": [],
+    "esmodules": [
+        "scripts/main.mjs"
+    ],
+    "styles": [
+        "styles/archive-tab.css"
+    ],
+    "languages": [],
+    "packs": [],
+    "relationships": {
+        "requires": []
+    },
+    "compatibility": {
+        "minimum": "13.0",
+        "verified": "13.351"
+    },
+    "socket": true,
+    "url": "",
+    "manifest": "",
+    "license": "MIT"
+}
