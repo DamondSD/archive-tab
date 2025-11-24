@@ -6,7 +6,8 @@
     "protected": false,
     "authors": [
         {
-            "name": "Shadowdrake Creations"
+            "name": "Shadowdrake Creations",
+            "url": "https://github.com/DamondSD"
         }
     ],
     "scripts": [],
@@ -26,7 +27,11 @@
         "verified": "13.351"
     },
     "socket": true,
-    "url": "",
-    "manifest": "",
-    "license": "MIT"
+    "url": "https://github.com/DamondSD/archive-tab",
+    "manifest": "https://raw.githubusercontent.com/DamondSD/archive-tab/main/module.json",
+    "download": "https://github.com/DamondSD/archive-tab/releases/download/v0.1.0/archive-tab-v0.1.0.zip",
+    "readme": "https://github.com/DamondSD/archive-tab#readme",
+    "changelog": "https://github.com/DamondSD/archive-tab/releases",
+    "license": "MIT",
+    "icon": "assets/LogoSC.webp"
 }
