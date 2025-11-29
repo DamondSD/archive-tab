@@ -2,7 +2,7 @@
     "id": "archive-tab",
     "title": "Archive Tab",
     "description": "Adds a sidebar tab for all Archive Modules",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "protected": false,
     "authors": [
         {
@@ -36,3 +36,4 @@
     "icon": "assets/LogoSC.webp"
 
 }
+
